@@ -1,4 +1,4 @@
-USE hq26jwuz7qk7i21t;
+USE w5smx60dv7bj3hjr;
 INSERT INTO burgers(name, quantity, cost, purchased)
 VALUES('Sloppy Joe', 25, 2.50, false), 
 ('Hawaii', 30, 5.00, false), 
